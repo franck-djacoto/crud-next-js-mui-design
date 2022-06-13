@@ -58,7 +58,7 @@ export default function Layout({ children }) {
               </Link>
             </Typography>
             <Typography variant="h6">
-              <Link href="/blogs/new-post">
+              <Link href="/blog/new-post">
                 <a className={classes.link}> New post</a>
               </Link>
             </Typography>
